@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/iDarkQ/DiscordAPI-PMMP
+build-by-default: true
+branches:
+- main
+projects:
+  DiscordAPI-PMMP:
+    path: ""
+...
