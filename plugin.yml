@@ -1,5 +1,5 @@
 main: DiscordAPI\Main
 name: DiscordAPI
 version: 1
-api: 3.9.4
+api: 3.0.0
 author: iDarkQ
